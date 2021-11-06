@@ -21,7 +21,12 @@ npm install host-checker@latest
 ```
 
 ## Screenshot
+Note: The code of this is Screenshot is [this](https://github.com/Scoooolz/host-checker/tree/main/example.js)
+
+Glitch:
 ![Glitch](https://scoooolz.github.io/raw/host-checker/media/Glitch.gif)
+
+Replit:
 ![Replit](https://scoooolz.github.io/raw/host-checker/media/Replit.gif)
 
 ## Examples
