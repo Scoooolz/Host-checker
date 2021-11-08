@@ -21,7 +21,7 @@ npm install host-checker@latest
 ```
 
 ## Screenshot
-Note: The code of this is Screenshot is [this](https://github.com/Scoooolz/host-checker/tree/main/example.js)
+Note: The code of this Screenshot is [this](https://github.com/Scoooolz/host-checker/tree/main/example.js)
 
 Glitch:
 ![Glitch](https://scoooolz.github.io/raw/host-checker/media/Glitch.gif)
@@ -54,4 +54,4 @@ Feel free to pull request for fix something or add more host.
 \(Optional but recommended\) Please add [Prettier](https://prettier.io/) code formatter for neatness of this code!
 
 ## More
-licenses : [MIT](https://github.com/Scoooolz/host-checker/tree/main/LICENSE.md)
+license : [MIT](https://github.com/Scoooolz/host-checker/tree/main/LICENSE.md)
