@@ -6,7 +6,7 @@
     <br />
     <p>
         <a href="https://www.npmjs.com/package/host-checker"><img src="https://img.shields.io/npm/v/host-checker.svg?maxAge=3600" alt="npm version" /></a>
-        <a href="https://github.com/Scoooolz/host-checker"><img src="https://img.shields.io/github/license/Scoooolz/host-checker.svg?maxAge=3600" alt="npm downloads" /></a>
+        <a href="https://github.com/Scoooolzs/host-checker"><img src="https://img.shields.io/github/license/Scoooolzs/host-checker.svg?maxAge=3600" alt="npm downloads" /></a>
     </p>
 </div>
 
@@ -21,13 +21,13 @@ npm install host-checker@latest
 ```
 
 ## Screenshot
-Note: The code of this Screenshot is [this](https://github.com/Scoooolz/host-checker/tree/main/example.js)
+Note: The code of this Screenshot is [this](https://github.com/Scoooolzs/host-checker/tree/main/example.js)
 
 Glitch:
-![Glitch](https://scoooolz.github.io/raw/host-checker/media/Glitch.gif)
+![Glitch](https://scoooolzs.github.io/raw/host-checker/media/Glitch.gif)
 
 Replit:
-![Replit](https://scoooolz.github.io/raw/host-checker/media/Replit.gif)
+![Replit](https://scoooolzs.github.io/raw/host-checker/media/Replit.gif)
 
 ## Examples
 
@@ -54,4 +54,4 @@ Feel free to pull request for fix something or add more host.
 \(Optional but recommended\) Please add [Prettier](https://prettier.io/) code formatter for neatness of this code!
 
 ## More
-license : [MIT](https://github.com/Scoooolz/host-checker/tree/main/LICENSE.md)
+license : [MIT](https://github.com/Scoooolzs/host-checker/tree/main/LICENSE.md)
