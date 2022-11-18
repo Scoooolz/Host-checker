@@ -20,15 +20,6 @@ You can check the user what the host he use!
 npm install host-checker@latest
 ```
 
-## Screenshot
-Note: The code of this Screenshot is [this](https://github.com/Scoooolzs/host-checker/tree/main/example.js)
-
-Glitch:
-![Glitch](https://scoooolzs.github.io/raw/host-checker/media/Glitch.gif)
-
-Replit:
-![Replit](https://scoooolzs.github.io/raw/host-checker/media/Replit.gif)
-
 ## Examples
 
 ```js
